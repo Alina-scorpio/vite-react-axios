@@ -1,0 +1,40 @@
+:root {
+  background-color: coral;
+  color: rgb(8, 46, 116);
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  min-height: 100vh;
+}
+
+.container {
+  background-color: antiquewhite;
+  padding: 50px;
+}
+
+h1 {
+  color: brown;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px dashed red;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: coral;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+p {
+  color: black;
+}
+
+span {
+  color: crimson;
+}
